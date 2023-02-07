@@ -1,2 +1,2 @@
 # Louis Vuitton Neo
-https://mjkorean-lvn.netlify.app/
+https://mjkorean-louis-vuitton-neo.netlify.app/
