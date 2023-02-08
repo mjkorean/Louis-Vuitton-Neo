@@ -1,5 +1,4 @@
 # Louis Vuitton Neo
 https://mjkorean-louis-vuitton-neo.netlify.app/
 
-Bootstrap
-Responsive Web Design
+Bootstrap / Responsive Web Design
